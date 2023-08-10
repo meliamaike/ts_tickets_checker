@@ -23,7 +23,7 @@ Install all the necessary packages.
    python ts_ticket_checker.py 
    ```
 
-5. The script will continuously check for ticket availability. Once tickets become available, it will send a WhatsApp message to the specified phone numbers using PyWhatKit.
+5. The script will continuously check for ticket availability. Once tickets become available, it will send a WhatsApp message to the specified phone numbers using PyWhatKit. It will also open a new tab in the default web browser with the ticket page.
 
 ## Notes
 
